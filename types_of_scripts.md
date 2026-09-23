@@ -13,7 +13,7 @@ While the shell interprets user commands, the kernel is responsible for actually
 
 `Csh (C Shell)`: The C shell's syntax and its usage are very similar to the C programming language.
 
-`Ksh (Korn Shell)`: The Korn Shell was also the base for the POSIX Shell standard specifications
+`Ksh (Korn Shell)`: The Korn Shell was also the base for the POSIX(portable operating system interface) Shell standard specifications
 
 
 # Shell Script
